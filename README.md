@@ -40,6 +40,8 @@ Things I code with
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/>
 -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" alt="intelliJ" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="vscode" width="40" height="40"/>
   </p>
 </p>
 
