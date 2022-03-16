@@ -1,3 +1,6 @@
+ ## 😂 A little random joke to get you started ?
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ### Hi, my name is Alexandre
 
 I am a Fullstack Javascript developer and I have a total experience of 2 years.
