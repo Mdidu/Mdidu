@@ -1,4 +1,4 @@
-### In development
+### Hi, my name is Alexandre
 
 I am a Fullstack Javascript developer and I have a total experience of 2 years.
 
@@ -7,7 +7,7 @@ I like to solve problems and take on challenges.
 Currently, I'm learning dart and flutter to expand my horizons.
 I also plan to learn Kafka, GraphQL and Nest.js to consolidate my back-end skills!
 
-You can find me on linkedin : <a href="https://www.linkedin.com/in/alexandre-meddas/"><img src="https://camo.githubusercontent.com/5d69d33a89a80f4557434490777a6f8a8c37bb403e549e806411b61bff88327d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f68656d616e74686b6f6c6c69706172612f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/alexandre-meddas/" style="max-width: 100%;"></a>
+You can find me on linkedin :  <a href="https://www.linkedin.com/in/alexandre-meddas/"><img src="https://camo.githubusercontent.com/5d69d33a89a80f4557434490777a6f8a8c37bb403e549e806411b61bff88327d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f68656d616e74686b6f6c6c69706172612f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/alexandre-meddas/" style="max-width: 100%;"></a>
 
 ----------------------------------------------------------------------------------------
 
