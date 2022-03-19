@@ -67,7 +67,6 @@ Technologies I code with
 </p>
 
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=Mdidu&count_private=true&show_icons=true&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdidu&hide=&layout=compact&langs_count=7)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mdidu.Mdidu)
