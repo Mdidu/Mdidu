@@ -54,19 +54,21 @@ Technologies I code with
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </p>
   <p class="quality">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="git" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain-wordmark.svg" alt="git" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-plain.svg" alt="git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain-wordmark.svg" alt="jasmine" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-plain.svg" alt="karma" width="40" height="40"/>
   </p>
   <p class="tools">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+    <img src="https://github.com/Mdidu/Mdidu/blob/main/icons/sonarqube/sonarqube.svg" alt="sonarqube" width="40" height="40"/>
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/>
 -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://github.com/Mdidu/Mdidu/blob/main/icons/swagger/swagger.svg" alt="swagger" width="40" height="40"/>
   <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" alt="intelliJ" width="40" height="40"/>
   <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="vscode" width="40" height="40"/>
   </p>
